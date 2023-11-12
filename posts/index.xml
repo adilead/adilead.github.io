@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on The Adilead Blog</title>
+    <link>https://adilead.github.io/posts/</link>
+    <description>Recent content in Posts on The Adilead Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Nov 2023 16:42:15 +0100</lastBuildDate><atom:link href="https://adilead.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This is a test post</title>
+      <link>https://adilead.github.io/posts/test/</link>
+      <pubDate>Sun, 12 Nov 2023 16:42:15 +0100</pubDate>
+      
+      <guid>https://adilead.github.io/posts/test/</guid>
+      <description>This is some content.</description>
+    </item>
+    
+  </channel>
+</rss>
